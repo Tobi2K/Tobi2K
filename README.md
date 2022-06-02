@@ -1,7 +1,5 @@
 <h1 align=center>👋 What's up? I'm Tobi</h1>
 
----
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tobi2k&row=1&column=3&margin-w=15&theme=nord" alt="tobi2k" /></a> </p>
 
 - 🧑‍🎓 I’m studying software engineering at Ulm University
