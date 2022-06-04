@@ -1,6 +1,6 @@
-<h1 align=center>👋 What's up? I'm Tobi</h1>
+<h1 align=center><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> What's up? I'm Tobi</h1>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tobi2k&row=1&column=3&margin-w=15&theme=nord" alt="tobi2k" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tobi2k&row=1&column=4&margin-w=15&theme=nord" alt="tobi2k" /></a> </p>
 
 - 🧑‍🎓 I’m studying software engineering at Ulm University
 - 🔭 I’m currently working on [TopTips](https://github.com/Tobi2K/TopTips-App) and [kalmbach.dev](https://www.kalmbach.dev)
