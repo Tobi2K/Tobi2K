@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [TopTips](https://github.com/Tobi2K/TopTips-App) and [kalmbach.dev](https://www.kalmbach.dev)
 - 🌱 I’m currently learning **data science**
 
-- 📫 How to reach me **t.kalmbach35@gmail.com**
+- 📫 How to reach me **tobias@kalmbach.dev**
 
 - ⚡ Fun fact: **Lightning strikes the earth approximately 44 times per second.**
 ---
