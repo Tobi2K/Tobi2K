@@ -7,8 +7,6 @@
 - 🌱 I’m currently learning **data science**
 
 - 📫 How to reach me **tobias@kalmbach.dev**
-
-- ⚡ Fun fact: **Lightning strikes the earth approximately 44 times per second.**
 ---
 
 <h3 align="left">Languages and Tools:</h3>
