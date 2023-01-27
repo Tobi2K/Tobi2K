@@ -7,8 +7,8 @@
 - 🌱 I’m currently learning **data science**
 
 - 📫 How to reach me **tobias@kalmbach.dev**
+<!--
 ---
-
 <h3 align="left">Languages and Tools:</h3>
 <details>
     <summary>Languages</summary>
@@ -108,3 +108,4 @@
         </a>
     </p>
 </details>
+-->
