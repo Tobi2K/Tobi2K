@@ -2,7 +2,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tobi2k&row=1&column=3&margin-w=5&theme=nord" height=90px alt="tobi2k" /></a> </p>
 
-- 🧑‍🎓 I’m studying computer science at Leibniz University Hannover
+- 🧑‍🎓 I’m a PhD student at the L3S Research Center in Hannover, Germany
 - 🔭 I’m currently working on [TopTips](https://app.kalmbach.dev) and [kalmbach.dev](https://www.kalmbach.dev)
 - 🌱 I’m currently learning **data science**
 
